@@ -1,0 +1,27 @@
+ 2016  1 6 0610 57.7 L  29.123  51.294 15.0  BIN 14 0.2 3.5LBIN                1
+ GAP=167        0.51       9.6     4.5 16.2  0.3518E+02 -0.5559E+02 -0.1525E+03E
+ ACTION:UPD 17-01-21 05:22 OP:IRAN STATUS:               ID:20160106061057 L   I
+ 2016-01-06-0610-30S.BIN__075                                                  6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ AHRM BZ EPg       611  3.29                             109    0.0110 28.5 179 
+ GHIR BZ EPg       611 28.80                              91   -0.1110  190 119 
+ GHIR BE ESg       611 51.83                              91    0.1010  190 119 
+ GHIR BZ  IAML     612  4.30      1113.7 0.52                           190 119 
+ NASN BZ EPn       611 59.17                              52   -0.12 9  433  19 
+ NASN BZ  IAML     612 50.89        15.4 0.38                           433  19 
+ YZKH BZ EPn       612  5.26                              52    0.09 8  480  40 
+ YZKH BZ  IAML     613  2.16        16.2 0.38                           480  40 
+ KHMZ BZ EPn       612 10.78                              52   -0.17 8  527 346 
+ KHMZ BZ  IAML     613 14.69        14.9 0.54                           527 346 
+ KRBR BZ EPn       612 12.15                              52   -0.24 8  538  78 
+ KRBR BZ  IAML     613 42.02        34.2 0.55                           538  78 
+ GHVR BZ EPn       612 19.69                              52    0.58 7  594 360 
+ GHVR BZ  IAML     613 24.13        12.7 0.76                           594 360 
+ ASAO BZ EPn       612 21.94                              52    0.25 7  614 349 
+ DAMV BZ EPn       612 35.18                              52   -0.31 6  725   5 
+ TABS BZ EPn       612 38.26                              52    0.10 6  747  46 
+ CHTH BZ EPn       612 38.75                              52   -0.24 6  753 359 
+ SNGE BZ EPn  4    612 37.99                              52   -1.80 0  760 332 
+ SNGE BZ  IAML     614  7.49        18.4 0.54                           760 332 
+ BSRN BZ EPn       612 46.86                              52    0.29 6  815  65 
+ SHRO BZ EPn       612 54.70                              52   -0.30 5  883  29 
